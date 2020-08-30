@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import logo from "./logo.svg"
+import logo from "https://intweb.bucks.ac.uk/~21430060/astroear/v2/Astroear.png"
 import "./App.css"
 
 class LambdaDemo extends Component {
